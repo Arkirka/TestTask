@@ -5,6 +5,7 @@ Test task for Vigo.
 и на его основе составляет новую статистику в таком же формате.
 
 Информация изымается из файла по пути: src/main/resources/input/1.txt
+
 Информация записывается в файл по пути: src/main/resources/output/statistika.txt
 
 Пути к файлам вынесены в отдельный файл properties.properties
